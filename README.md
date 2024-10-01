@@ -1,0 +1,1 @@
+MITV, or Multimedia Interactive Television, is a proposed model for interactive television that combines existing television distribution systems with standard internet infrastructure. MITV's goal is to allow for interactive television to be deployed using a combination of current distribution systems, such as satellite, cable, and TV over xDSL.
